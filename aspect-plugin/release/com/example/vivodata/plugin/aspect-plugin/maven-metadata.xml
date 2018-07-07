@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.example.vivodata.plugin</groupId>
+  <artifactId>aspect-plugin</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180707075856</lastUpdated>
+  </versioning>
+</metadata>
